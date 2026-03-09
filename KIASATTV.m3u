@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJG3HQ2fQevt8FPBE9nE0M0cPViDaHetLL4g&s" group-title="Persian", Iran International
+https://live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0myToVOsfslekxxpPhJHWBrpOHp6weogSDw&s" group-title="Persian", Pahlavi Meli TV
 https://hls.irannrtv.live/hls/stream.m3u8
 
@@ -9,8 +12,6 @@ https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-logo="https://pars-israel.com/wp-content/uploads/2020/05/Untitled-2.jpg" group-title="Persian", Israel Pars TV
 https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJG3HQ2fQevt8FPBE9nE0M0cPViDaHetLL4g&s" group-title="Persian", Iran International
-https://live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 #EXTINF:-1 tvg-logo="https://abdimedia.net/sites/default/files/1403-12/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D8%B5%D8%AF%D8%A7%DB%8C%20%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%20%C2%AB%D9%85%D9%88%D9%82%D8%AA%D8%A7%C2%BB%20%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%20%D8%B4%D8%AF...jpg" group-title="Persian", VOA Farsi
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
@@ -103,7 +104,6 @@ https://932y493eljv8-hls-live.5centscdn.com/didiptv4/aniha4.stream/chunks.m3u8
 https://Persianhls.persiana.live/hls/stream.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?w=900&h=506&src=https://www.irtv.website/index_files/channels/novintv.png" group-title="Persian", Novin TV
 https://stream.novin.live/hls/playlist.m3u8
 
@@ -156,7 +156,6 @@ https://live-azd1107.telewebion.ir/ek/irinn/live/1080p/index.m3u8
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJZcJId5F70seQsfTIU2n67Yc6kPC0NFeCA&s" group-title="Israel", KAN 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_1.2k/chunklist.m3u8
 
@@ -186,8 +185,6 @@ https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/eotLlGx4OMX2PpLm2o8Yau5zobG02y5Ap2t5CQLLemjfgUVAM_j6_j2QwvJ1pvYHkGGAJLqA8Q=s900-c-k-c0x00ffffff-no-rj" group-title="Israel", Shelanu TV
 https://1247634592.rsc.cdn77.org/1247634592/tracks-v2a1/mono.ts.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/X-b7tJvjfBMDHCAafwyNV89qJ_FlzlXChymSisVsncnPpgOLLHknR6n1wtm8huk0SJz3KhNRTQ=s900-c-k-c0x00ffffff-no-rj" group-title="Turkey", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
@@ -609,3 +606,4 @@ https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bloomberg_Television-alt.svg/1280px-Bloomberg_Television-alt.svg.png" group-title="Business", Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-5-gL7znhDRHxT3_live.m3u8
+
