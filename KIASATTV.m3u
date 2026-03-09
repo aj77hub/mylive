@@ -3,10 +3,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0myToVOsfslekxxpPhJHWBrpOHp6weogSDw&s" group-title="Persian", Pahlavi Meli TV
 https://hls.irannrtv.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="Persian",Fox News
-https://tvpass.org/live/FoxNewsChannel/sd
-
-#EXTINF:-1 tvg-logo="https://pars-israel.com/wp-content/uploads/2020/05/Untitled-2.jpg" group-title="Persian", Israel Pars TV
+#EXTINF:-1 tvg-logo="https://pars-israel.com/wp-content/uploads/2020/05/Untitled-2.jpg" group-title="International", Israel Pars TV
 https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJG3HQ2fQevt8FPBE9nE0M0cPViDaHetLL4g&s" group-title="Persian", Iran International
@@ -36,10 +33,10 @@ https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sd
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/parstv.png" group-title="Persian", Pars TV1
 https://parshls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lKB4YUO9hQ0SlNKspquPHXtcp0Tzs0B9CGo-FWh-bHvA=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", TBN Nejat
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lKB4YUO9hQ0SlNKspquPHXtcp0Tzs0B9CGo-FWh-bHvA=s900-c-k-c0x00ffffff-no-rj" group-title="Religious", TBN Nejat
 https://hls.nejat.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?w=900&h=506&src=https://www.irtv.website/index_files/channels/mohabattv.jpg" group-title="Persian", Mohabat TV
+#EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?w=900&h=506&src=https://www.irtv.website/index_files/channels/mohabattv.jpg" group-title="Religious", Mohabat TV
 https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/chunklist_w1513510485_b2625536.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k5S93gDGlZExTL8OVMHifv2cRGceT1u5TCCSCrI6yvTrA=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", iCnet 1 TV
@@ -48,13 +45,13 @@ https://icnet1hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtroELdOAF92Vslqll3ApBfGRaDvD0PQ1FtQ&s" group-title="Persian", iCnet 3 TV
 https://ic3hls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000366249578-nysxy3-t1080x1080.jpg" group-title="Persian", Radio Javan TV
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000366249578-nysxy3-t1080x1080.jpg" group-title="Music", Radio Javan TV
 https://rjtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jWnNoq3pnXBF_gcsyzJ1AUz9gQ6qjHQP2hE05LW81GAatv848XUEsVd-BDIGNHg-lJc" group-title="Persian", Radio Ran TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jWnNoq3pnXBF_gcsyzJ1AUz9gQ6qjHQP2hE05LW81GAatv848XUEsVd-BDIGNHg-lJc" group-title="Music", Radio Ran TV
 https://streaminglive.co.il:3730/live/raniamranilive.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/afn-Persian.jpg" group-title="Persian", AFN TV
+#EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/afn-music.jpg" group-title="Music", AFN TV
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d93c8b_d02dc4f8324242bda77c27ae8da651c5~mv2.png" group-title="Persian", Omid e Iran TV
@@ -75,7 +72,7 @@ https://setarehhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6GG9zkzAWgEFF1Y0YTwslj5Iq8ndrTJx-g&s" group-title="Persian", Iran 620 Jewish TV
 https://corsply-lw732ndpe2a5z.cfpass1.workers.dev/?url=http://iran620.com:1935/live/IranJewishTv/chunklist_w1359008886.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/slM4GOHcmhz7jpdHtdICDVoCVUdIk5luJIcLnjSGxc-QbrOGOve9pY2AdSDW-6NZb0E" group-title="Persian", Ganje Hozour TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/slM4GOHcmhz7jpdHtdICDVoCVUdIk5luJIcLnjSGxc-QbrOGOve9pY2AdSDW-6NZb0E" group-title="Religious", Ganje Hozour TV
 https://media.parvizshahbazi.com/ganjehozour/Main_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71QV-bLBezL.png" group-title="Persian", Mihan TV
@@ -84,23 +81,23 @@ https://iptv.mihantv.com/mihantv/playlist_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tYHvVPWzbdLF9KPut6I_Lq7eqB07yEAWNcVJgC-BFja_ZDjch2s-ocODXc8YPrYC-RH7NH3RWg=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Home Plus TV
 https://homeplushls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?src=https://www.irtv.website/index_files/channels/omidjavedan.jpg" group-title="Persian", Omid Javedan TV
+#EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?src=https://www.irtv.website/index_files/channels/omidjavedan.jpg" group-title="Religious", Omid Javedan TV
 https://spf-cors-omidjavedan.cfpass1.workers.dev/?url=https://livestream.5centscdn.com/pwocchurchweb1/cebac1e921182acff008ab1222f0c916.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://payamearamesh.org/wp-content/uploads/2024/09/cropped-Payamearamesh-Logo.png" group-title="Persian", Payam e Aramesh TV
+#EXTINF:-1 tvg-logo="https://payamearamesh.org/wp-content/uploads/2024/09/cropped-Payamearamesh-Logo.png" group-title="Religious", Payam e Aramesh TV
 https://hls.keshishhamid.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2sT100hD1rp_kdTYGPozpFkDylEjn_via-g&s" group-title="Persian", Rahe Nejat TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2sT100hD1rp_kdTYGPozpFkDylEjn_via-g&s" group-title="Religious", Rahe Nejat TV
 https://hls.rahenejat.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPwg_W2XPSY8k1bmvwDvuCGDbtCCrpk7KaQ&s" group-title="Persian", Derakhte Zendegi TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPwg_W2XPSY8k1bmvwDvuCGDbtCCrpk7KaQ&s" group-title="Religious", Derakhte Zendegi TV
 https://derakhtzhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DRCZ3XEWZm0e4-45RyvnuE_kVCg6GUTOZbCSKp78ZaCU1H3Mjv167m7TK5DLZrbcZf0tAyowogY=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Didaniha TV
 https://932y493eljv8-hls-live.5centscdn.com/didiptv4/aniha4.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oekr8TcA26zQwGr-I41VgF-Vtj9M2KiPYunwrzafUxz-4UvnLoF8adBk3JfZpcXaunlg5E7CZA=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Persiana Persian TV
-https://Persianhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oekr8TcA26zQwGr-I41VgF-Vtj9M2KiPYunwrzafUxz-4UvnLoF8adBk3JfZpcXaunlg5E7CZA=s900-c-k-c0x00ffffff-no-rj" group-title="Music", Persiana Music TV
+https://musichls.persiana.live/hls/stream.m3u8
 
 
 
@@ -110,16 +107,16 @@ https://stream.novin.live/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WC1bSndwQzue7mqRnvFiB44vE-a5-MeGiahnKo8vX-rOHfkCTRPqC_G4pbop-LKLEX9a2yFTHA=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Gord Afarid TV
 https://gatvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?w=900&h=506&src=https://www.irtv.website/index_files/channels/navahang.png" group-title="Persian", Navahang TV
+#EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?w=900&h=506&src=https://www.irtv.website/index_files/channels/navahang.png" group-title="Music", Navahang TV
 https://hls.navahang.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kMo9__-TFSPT-ty-IecgWWK_qmmQytSDSTEqs05Bo-_R4=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Avang TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kMo9__-TFSPT-ty-IecgWWK_qmmQytSDSTEqs05Bo-_R4=s900-c-k-c0x00ffffff-no-rj" group-title="Music", Avang TV
 https://hls.avang.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/u0EJjqfZxF5FZFbld5K7KpO3CbeO7_27YUAnY35Lje5FLl0p8pTAQsHelJM03adCgaCMPbT3=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", DEJ TV
 https://rdejhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/itv.png" group-title="Persian", iTV Persian TV
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/itv.png" group-title="Music", iTV Music TV
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.zyrosite.com/.../icon-512-137qr7iHPAcyZEvN.png" group-title="Persian", Iran Independent TV
@@ -137,7 +134,7 @@ https://corsply-lw732ndpe2a5z.cfpass1.workers.dev/?url=https://media2.streambrot
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rudaw_Media_Network.jpg" group-title="International", Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9egTfu0Qu1e0hoLWLUG4m76WmQzzW0FHbqzYWAsEOqX_k4bPaZTFOjKytQa9lJQB9XE" group-title="Persian", Kalameh TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9egTfu0Qu1e0hoLWLUG4m76WmQzzW0FHbqzYWAsEOqX_k4bPaZTFOjKytQa9lJQB9XE" group-title="Religious", Kalameh TV
 https://player.kalemeh.tv/live/ngrp:kalemeh_all/chunklist_w251989014_b864000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/320px-Tabriz_Sahand.svg.png" group-title="Local Iran", Tabriz Sahand
@@ -500,6 +497,17 @@ https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/960px-CNN_International_logo.svg.png" group-title="News", CNN
 https://helpfullive.info/cusa/tracks-v1a1/mono.m3u8?token=a834b4eb19e1e22ede5d2c3037effaf4aca887a6-4c0f2905eb256bec3438ff4432a64157-1772943450-1772932650
 
@@ -598,4 +606,3 @@ https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bloomberg_Television-alt.svg/1280px-Bloomberg_Television-alt.svg.png" group-title="Business", Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-5-gL7znhDRHxT3_live.m3u8
-
