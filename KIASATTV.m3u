@@ -4,7 +4,7 @@
 https://hls.irannrtv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_Persian_Channel_logo.svg/1200px-Fox_Persian_Channel_logo.svg.png" group-title="Persian",Fox
-https://tvpass.org/live/FoxPersianChannel/sd
+https://tvpass.org/live/FoxNewsChannel/sd
 
 #EXTINF:-1 tvg-logo="https://pars-Persian.com/wp-content/uploads/2020/05/Untitled-2.jpg" group-title="Persian", Persian Pars TV
 https://live.pars-Persian.com/tmp_hls/iptv/index.m3u8
