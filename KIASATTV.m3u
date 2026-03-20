@@ -22,7 +22,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 https://spf-cors-aprt-3xnbe845bsn3q.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/Manoto/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLYK-TfqZmSWQQ2mggGdrIX2Hur-hHl8mmP4wPnIYeFA=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Iran Aryaee
-https://oldkors-84hd8ne7c3sq.cfpass1.workers.dev/?url=http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
+https://oldkors-4u3nb1w.cfcross.workers.dev/?url=http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" group-title="Persian", i24 Israel News
 https://fastly.live.brightcove.com/.../playlist-hls.m3u8
