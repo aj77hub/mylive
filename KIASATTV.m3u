@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0myToVOsfslekxxpPhJHWBrpOHp6weogSDw&s" group-title="Persian", Pahlavi Meli TV
 https://hls.irannrtv.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_Persian_Channel_logo.svg/1200px-Fox_Persian_Channel_logo.svg.png" group-title="Persian",Fox
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="Persian",Fox
 https://tvpass.org/live/FoxNewsChannel/sd
 
 #EXTINF:-1 tvg-logo="https://pars-israel.com/wp-content/uploads/2020/05/Untitled-2.jpg" group-title="Persian", Israel Pars TV
 https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJG3HQ2fQevt8FPBE9nE0M0cPViDaHetLL4g&s" group-title="Persian", Iran Persian
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJG3HQ2fQevt8FPBE9nE0M0cPViDaHetLL4g&s" group-title="Persian", Iran International
 https://live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 #EXTINF:-1 tvg-logo="https://abdimedia.net/sites/default/files/1403-12/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D8%B5%D8%AF%D8%A7%DB%8C%20%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%20%C2%AB%D9%85%D9%88%D9%82%D8%AA%D8%A7%C2%BB%20%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%20%D8%B4%D8%AF...jpg" group-title="Persian", VOA Farsi
@@ -24,7 +24,7 @@ https://spf-cors-aprt-3xnbe845bsn3q.cfpass1.workers.dev/?url=https://gg.hls2.xyz
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLYK-TfqZmSWQQ2mggGdrIX2Hur-hHl8mmP4wPnIYeFA=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Iran Aryaee
 https://oldkors-84hd8ne7c3sq.cfpass1.workers.dev/?url=http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24Persian.png" group-title="Persian", i24 Persian
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" group-title="Persian", i24 Israel News
 https://fastly.live.brightcove.com/.../playlist-hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.iranntv.com/wp-content/uploads/2024/11/lion-and-sun-iranntv.png" group-title="Persian", Simaye Azadi
