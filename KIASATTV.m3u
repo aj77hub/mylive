@@ -19,7 +19,7 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEGXDFD4hVypo4Mqu7FywWfshZonpEsm1wQ&s" group-title="Persian", Manoto
-https://spf-cors-aprt-3xnbe845bsn3q.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/Manoto/chunks.m3u8
+https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLYK-TfqZmSWQQ2mggGdrIX2Hur-hHl8mmP4wPnIYeFA=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Iran Aryaee
 https://oldkors-4u3nb1w.cfcross.workers.dev/?url=http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
