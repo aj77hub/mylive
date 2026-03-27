@@ -6,6 +6,10 @@ https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://pars-israel.com/wp-content/uploads/2020/05/Untitled-2.jpg" group-title="Persian", Israel Pars TV
 https://live.pars-israel.com/tmp_hls/iptv/video1_stream.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/zed-tv.com/wp-content/uploads/2026/02/logo.png?fit=2272%2C1562&ssl=1" group-title="Persian", ZED TV
+https://zedhls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="Persian",Fox
 https://tvpass.org/live/FoxNewsChannel/sd
 
