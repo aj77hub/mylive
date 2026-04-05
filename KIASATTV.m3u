@@ -10,6 +10,9 @@ https://live.pars-israel.com/tmp_hls/iptv/video1_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/zed-tv.com/wp-content/uploads/2026/02/logo.png?fit=2272%2C1562&ssl=1" group-title="Persian", ZED TV
 https://zedhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DRCZ3XEWZm0e4-45RyvnuE_kVCg6GUTOZbCSKp78ZaCU1H3Mjv167m7TK5DLZrbcZf0tAyowogY=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Didaniha TV
+https://932y493eljv8-hls-live.5centscdn.com/didiptv4/aniha4.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="Persian",Fox
 https://tvpass.org/live/FoxNewsChannel/sd
 
@@ -100,8 +103,6 @@ https://hls.rahenejat.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPwg_W2XPSY8k1bmvwDvuCGDbtCCrpk7KaQ&s" group-title="Persian", Derakhte Zendegi TV
 https://derakhtzhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DRCZ3XEWZm0e4-45RyvnuE_kVCg6GUTOZbCSKp78ZaCU1H3Mjv167m7TK5DLZrbcZf0tAyowogY=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Didaniha TV
-https://932y493eljv8-hls-live.5centscdn.com/didiptv4/aniha4.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oekr8TcA26zQwGr-I41VgF-Vtj9M2KiPYunwrzafUxz-4UvnLoF8adBk3JfZpcXaunlg5E7CZA=s900-c-k-c0x00ffffff-no-rj" group-title="Persian", Persiana Persian TV
 https://Persianhls.persiana.live/hls/stream.m3u8
